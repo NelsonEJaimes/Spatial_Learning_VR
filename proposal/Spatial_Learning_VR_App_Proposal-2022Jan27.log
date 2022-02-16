@@ -1,0 +1,172 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.20)  16 FEB 2022 05:11
+entering extended mode
+**./Spatial_Learning_VR_App_Proposal-2022Jan27.tex
+(Spatial_Learning_VR_App_Proposal-2022Jan27.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/base\report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen141
+\WF@size=\dimen142
+\c@WF@wrappedlines=\count184
+\WF@box=\box47
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+)
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count185
+\l__pdf_internal_box=\box48
+) (Spatial_Learning_VR_App_Proposal-2022Jan27.aux)
+\openout1 = `Spatial_Learning_VR_App_Proposal-2022Jan27.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count186
+\scratchdimen=\dimen143
+\scratchbox=\box49
+\nofMPsegments=\count187
+\nofMParguments=\count188
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count189
+\MPscratchDim=\dimen144
+\MPnumerator=\count190
+\makeMPintoPDFobject=\count191
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\Nelso\AppData\Local\Programs\MiKTeX2\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+ [1
+
+{C:/Users/Nelso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+[1
+
+] [2
+
+] [3] [4]
+<./images//Mary_with_story.png, id=22, 3027.31pt x 1335.99126pt>
+File: ./images//Mary_with_story.png Graphic file (type png)
+<use ./images//Mary_with_story.png>
+Package pdftex.def Info: ./images//Mary_with_story.png  used on input line 107.
+
+(pdftex.def)             Requested size: 345.0pt x 152.23935pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 107--108
+[][] 
+ []
+
+<./images//Matt_with_story.png, id=24, 3027.31pt x 1335.99126pt>
+File: ./images//Matt_with_story.png Graphic file (type png)
+<use ./images//Matt_with_story.png>
+Package pdftex.def Info: ./images//Matt_with_story.png  used on input line 111.
+
+(pdftex.def)             Requested size: 345.0pt x 152.23935pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 111--112
+[][] 
+ []
+
+[5
+
+ <./images//Mary_with_story.png> <./images//Matt_with_story.png>] [6
+
+]
+[7
+
+] (Spatial_Learning_VR_App_Proposal-2022Jan27.aux) ) 
+Here is how much of TeX's memory you used:
+ 1312 strings out of 480236
+ 20717 string characters out of 2880085
+ 289775 words of memory out of 3000000
+ 17897 multiletter control sequences out of 15000+200000
+ 539642 words of font info for 44 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,6n,66p,1130b,181s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Nelso/AppData/Loc
+al/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Nelso/A
+ppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Use
+rs/Nelso/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/Users/Nelso/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Users/Nelso/AppData/Local/Programs/MiKTeX2/fonts/type1/public/am
+sfonts/cm/cmr17.pfb>
+Output written on Spatial_Learning_VR_App_Proposal-2022Jan27.pdf (8 pages, 3642
+99 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
