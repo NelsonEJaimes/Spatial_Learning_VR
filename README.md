@@ -4,6 +4,8 @@
 
 ### You can view a video description of this project by clicking on this link: https://youtu.be/DkEK3AnuKng
 
+### You can also view a test subject tutorial by clicking on this link: https://youtu.be/cUQCahuN0lQ
+
 <br>
 
 ![Seamless VR Surveys](readme_images/completing_survey_screenshot.png "Seamless VR Surveys")
