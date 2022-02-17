@@ -6,7 +6,7 @@
 
 <br>
 
-![Seamless VR Surveys](readme_images/completing_survey_screenshot.png "Seamless VR Surveys")
+![Seamless VR Surveys](readme_images/still_survey.png "Seamless VR Surveys")
 
-![Spatial Task](readme_images/test_trial_screenshot_2.png "Spatial Task")
+![Spatial Task](readme_images/still_guess.png "Spatial Task")
 
